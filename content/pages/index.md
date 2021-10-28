@@ -36,7 +36,7 @@ sections:
           *   Android App Development
 
       - title: Experience design
-        image: images/service-3.svg
+        image: /images/Custom-Software-Development.png
         content: |-
           - Digital product design
           - Service design
