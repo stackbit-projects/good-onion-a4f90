@@ -28,7 +28,7 @@ sections:
           *   Optimization and Maintenance of Web Applications
 
       - title: Brand design
-        image: /images/Mobile-Application-Development.jpeg
+        image: /images/Mobile-Application-Development-a179ecfb.jpeg
         content: |-
           - Brand development
           - Naming
