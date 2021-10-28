@@ -19,14 +19,14 @@ sections:
     grid_items:
       - title: Web Development
         image: /images/Web-Development-TechAvidus.png
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
+        content: |+
+          *   Custom Web Application Development
+          *   Mobile Responsive Web Application
+          *   Re-Working Outdated Applications
+          *   Third-Party Tools Integration
+          *   Progressive Web Application Development
+          *   Optimization and Maintenance of Web Applications
+
       - title: Brand design
         image: images/service-2.svg
         content: |-
