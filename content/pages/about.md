@@ -3,15 +3,12 @@ title: Our Story
 hide_title: false
 sections:
   - type: content_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
-
-
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+    content: >
+      Since our inception in 2016, TechAvidus has been providing[ IT outsourcing
+      services](https://www.techavidus.com/blogs/it-outsourcing-company-india)
+      in the USA, Canada, UK, and Australia. Whether you are just a startup or a
+      well-established enterprise, we cater to a wide range of clients and their
+      technology requirements.
     image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
