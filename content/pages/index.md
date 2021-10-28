@@ -37,15 +37,14 @@ sections:
 
       - title: Custom Software Development
         image: /images/Custom-Software-Development.png
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
+        content: |+
+          *   Product Development
+          *   Application Maintenance
+          *   Application Migration & Re-Engineering
+          *   Enterprise Application Integration
+          *   Client-Server Application Development
+          *   On-Premise & Cloud Application Development
+
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
