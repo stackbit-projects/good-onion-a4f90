@@ -35,7 +35,7 @@ sections:
           *   IOS App Development
           *   Android App Development
 
-      - title: Experience design
+      - title: Custom Software Development
         image: /images/Custom-Software-Development.png
         content: |-
           - Digital product design
