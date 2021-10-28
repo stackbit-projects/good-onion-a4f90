@@ -27,7 +27,7 @@ sections:
           *   Progressive Web Application Development
           *   Optimization and Maintenance of Web Applications
 
-      - title: Brand design
+      - title: Mobile Application Development
         image: /images/Mobile-Application-Development-a179ecfb.jpeg
         content: |-
           - Brand development
