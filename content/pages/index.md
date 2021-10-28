@@ -11,14 +11,6 @@ sections:
       We are a Web & Mobile Application Development Company. We work closely
       with you, your team to deliver inspiring work, which enables your
       organization to grow. [Let's talk](https://www.techavidus.com/contact-us).
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: tiles
-    title: Recent Work
-    subtitle: Explore case studies
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
   - type: grid_section
     section_id: clients
     title: Clients
