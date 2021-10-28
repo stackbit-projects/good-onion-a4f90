@@ -17,7 +17,7 @@ sections:
     subtitle: What we do
     col_number: three
     grid_items:
-      - title: Business design
+      - title: Web Development
         image: /images/Web-Development-TechAvidus.png
         content: |-
           - Research and insight
