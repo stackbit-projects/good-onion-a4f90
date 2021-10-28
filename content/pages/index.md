@@ -29,14 +29,12 @@ sections:
 
       - title: Mobile Application Development
         image: /images/Mobile-Application-Development-a179ecfb.jpeg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |+
+          *   Cross-Platform App Development
+          *   Custom Mobile Application Development
+          *   IOS App Development
+          *   Android App Development
+
       - title: Experience design
         image: images/service-3.svg
         content: |-
